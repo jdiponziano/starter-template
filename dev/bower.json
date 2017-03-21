@@ -1,12 +1,12 @@
 {
-  "name": "starter-template",
-  "homepage": "https://github.com/jdiponziano/starter-template",
+  "name": "bower-json",
+  "description": "",
+  "main": "gulp.js",
   "authors": [
     "Jessica DiPonziano <jdiponziano@gmail.com>"
   ],
-  "description": "Template to begin static projects using SMACSS, BEM, and SCSS",
-  "main": "",
-  "license": "MIT",
+  "license": "ISC",
+  "homepage": "https://github.com/jdiponziano/starter-template",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -14,7 +14,7 @@
     "test",
     "tests"
   ],
-  "dependencies": {
+  "devDependencies": {
     "neat": "^2.0.0",
     "include-media": "^1.4.9"
   }
