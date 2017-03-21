@@ -1,0 +1,17 @@
+{
+  "name": "starter-template",
+  "homepage": "https://github.com/jdiponziano/starter-template",
+  "authors": [
+    "Jessica DiPonziano <jdiponziano@gmail.com>"
+  ],
+  "description": "Template to begin static projects using SMACSS, BEM, and SCSS",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+}
